@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>NoType</string>
+<key>CFBundleDisplayName</key><string>NoType</string>
+<key>CFBundleIdentifier</key><string>local.notype.desktop</string>
+<key>CFBundleExecutable</key><string>NoType</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.6.5</string>
+<key>CFBundleVersion</key><string>14</string>
+<key>CFBundleIconFile</key><string>NoType</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSMicrophoneUsageDescription</key><string>NoType 使用麦克风录制你主动发起的口述，并在本机转写。</string>
+<key>NSSpeechRecognitionUsageDescription</key><string>NoType 使用 Apple 的设备端语音识别，将录音转成文字。</string>
+<key>LSApplicationCategoryType</key><string>public.app-category.productivity</string>
+</dict></plist>
